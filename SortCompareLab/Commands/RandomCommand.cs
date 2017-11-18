@@ -46,7 +46,7 @@ namespace SortCompareLab.Commands
                         return;
                     }
                 }
-                catch (Exception e)
+                catch (Exception e)//TODO упростить catch
                 {
                     switch (e)
                     {
